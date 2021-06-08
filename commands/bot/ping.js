@@ -25,6 +25,5 @@ module.exports.help = {
     description: "Get the ping of the bot",
     aliases: ["ms", "latency"],
     category: "bot",
-    usage: "ping",
-    nuke: false
+    usage: "ping"
 };
