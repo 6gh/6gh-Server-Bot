@@ -1,0 +1,24 @@
+{
+  "name": "6gh-server-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot to manage my server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6gh/6gh-Server-Bot.git"
+  },
+  "author": "6gh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/6gh/6gh-Server-Bot/issues"
+  },
+  "homepage": "https://github.com/6gh/6gh-Server-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "enmap": "^5.8.5"
+  }
+}
