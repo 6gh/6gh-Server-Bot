@@ -6,7 +6,7 @@ A Discord bot to manage [my server](https://discord.gg/atE7gzs).
 
 This project is still a work in progress, plus my server is dead and therefore this is just useless (besides having fun or something)
 
-> Note: I am dumb-dumb when code. Also, Wiki is not set up at this moment. Please bare with me, it'll be a while for it to go up
+> Note: I am dumb-dumb when code. Also, [The Wiki](https://github.com/6gh/6gh-Server-Bot/wiki/) is not set up at this moment. Please bare with me, it'll be a while for it to go up
 
 ## Info
 
@@ -18,11 +18,11 @@ You can use this bot in two ways:
 
 ### Use it in my server
 
-You can use by [joining my server](https://discord.gg/atE7gzs), and using the help command to get started. Chances are the prefix is "[" but if I changed it you can check the #info channel in the bot category.
+You can use by [joining my server](https://discord.gg/atE7gzs), and using the help command to get started. Chances are the prefix is "\[" but if I changed it you can check the #info channel in the bot category. [List of Commands](https://github.com/6gh/6gh-Server-Bot/wiki/Commands)
 
 ### Use it with your own token/bot
 
-You can clone/download this repository, and then make a .env file with the content `TOKEN=your-token-here`. Change the server ID in the config.json to your server ID, and start! (For more info visit the Wiki)
+You can clone/download this repository, and then make a .env file with the content `TOKEN=your-token-here`. Change the server ID in the config.json to your server ID, and start! ([Almost complete setup guide](https://github.com/6gh/6gh-Server-Bot/wiki/Setup-And-Installation))
 
 ## Reporting bugs/issues
 
